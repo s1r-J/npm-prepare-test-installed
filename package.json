@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "prepare": "build"
+    "prepare": "npm run build"
   },
   "author": "s1r-J",
   "license": "UNLICENSED",
