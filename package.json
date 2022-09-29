@@ -10,7 +10,8 @@
   },
   "author": "s1r-J",
   "license": "UNLICENSED",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "typescript": "^4.8.4"
   }
 }
