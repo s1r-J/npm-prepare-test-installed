@@ -1,0 +1,16 @@
+{
+  "name": "npm-prepare-test-installed",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "build"
+  },
+  "author": "s1r-J",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
