@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "in-files"
+  ],
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
